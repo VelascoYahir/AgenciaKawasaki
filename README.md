@@ -1,6 +1,10 @@
 # 🚀 Proyecto Java - Sistema de Login Creativo
-
-Este proyecto es una aplicación Java de escritorio que implementa un sistema de login personalizado con interfaz gráfica (Swing), conexión a base de datos MySQL, envío de correos y redirección por roles. Además, emplea efectos visuales y validaciones para una mejor experiencia de usuario.
+Nombre del proyecto ("Sistema de venta de motos Kawasaki").
+Número de equipo: 13
+Integrantes ( "VELASCO LUIS YAHIR FERMIN - Desarrollador y diseñador", "MATEOS ORTIZ LUIS ANGEL - diseñador").
+Este proyecto es una aplicación Java de escritorio de venta de motos Kawasaki que implementa un sistema de login personalizado con interfaz gráfica (Swing), conexión a base de datos MySQL, envío de correos y redirección por roles. Además, emplea efectos visuales y validaciones para una mejor experiencia de usuario.
+Tipo de sistema ( Desktop App en Java, con Swing).
+Librería externa implementada ("Usamos la librería 'correoElectronico' del Equipo 2 para enviar correos al registrar un usuario y al momento de comprar una moto (enviar factura)",  https://github.com/olmomomo/Libreria_correoElectronico    )
 
 ## 🧩 Características
 
@@ -10,7 +14,9 @@ Este proyecto es una aplicación Java de escritorio que implementa un sistema de
 - Validación de usuario desde base de datos MySQL.
 - Redirección según rol (cliente, administrador, etc.).
 - Envío de correos electrónicos de bienvenida o confirmación.
+- El sistema utiliza javax.mail para enviar correos al registrarse o iniciar sesión. Asegúrate de configurar correctamente los datos del remitente en la clase correspondiente (Correo.java o similar).
 - Integración con librerías externas (`javax.mail`, `iText`, `MySQL Connector`, etc.).
+- La imagen de fondo debe estar en esta ruta: C:\Users\angel\Downloads\Kawasaki-ZX-6R-2024-min-1200x675.png, Puedes cambiar la ruta o reemplazar por otra imagen de fondo en el constructor de LoginCreativo.
 
 ## 📦 Estructura del Proyecto
 
