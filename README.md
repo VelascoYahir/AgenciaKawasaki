@@ -1,9 +1,14 @@
 # 🚀 Proyecto Java - Sistema de Login Creativo
 Nombre del proyecto ("Sistema de venta de motos Kawasaki").
+
 Número de equipo: 13
+
 Integrantes ( "VELASCO LUIS YAHIR FERMIN - Desarrollador y diseñador", "MATEOS ORTIZ LUIS ANGEL - diseñador").
+
 Este proyecto es una aplicación Java de escritorio de venta de motos Kawasaki que implementa un sistema de login personalizado con interfaz gráfica (Swing), conexión a base de datos MySQL, envío de correos y redirección por roles. Además, emplea efectos visuales y validaciones para una mejor experiencia de usuario.
+
 Tipo de sistema ( Desktop App en Java, con Swing).
+
 Librería externa implementada ("Usamos la librería 'correoElectronico' del Equipo 2 para enviar correos al registrar un usuario y al momento de comprar una moto (enviar factura)",  https://github.com/olmomomo/Libreria_correoElectronico    )
 
 ## 🧩 Características
