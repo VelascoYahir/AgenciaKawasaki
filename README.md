@@ -11,6 +11,19 @@ Tipo de sistema ( Desktop App en Java, con Swing).
 
 Librería externa implementada ("Usamos la librería 'correoElectronico' del Equipo 2 para enviar correos al registrar un usuario y al momento de comprar una moto (enviar factura)",  https://github.com/olmomomo/Libreria_correoElectronico    )
 
+## 🧩 Funcionalidades clave
+
+<img width="1616" height="924" alt="image" src="https://github.com/user-attachments/assets/94e7b675-6dba-48ae-802e-d8e6d6c17302" />
+<img width="1624" height="927" alt="image" src="https://github.com/user-attachments/assets/9d1c5c40-1343-4d52-838b-27d895b7d9df" />
+<img width="1616" height="928" alt="image" src="https://github.com/user-attachments/assets/0f08d0ec-cdab-467f-b927-c335a8161a8c" />
+<img width="1620" height="922" alt="image" src="https://github.com/user-attachments/assets/d89faca2-c2e3-47d9-8b28-ab70619699e3" />
+<img width="1312" height="821" alt="image" src="https://github.com/user-attachments/assets/398c27a4-5ec5-4606-a701-3a9661563109" />
+<img width="1614" height="927" alt="image" src="https://github.com/user-attachments/assets/c2aa3fd8-d0eb-49ea-9aff-0598547724c7" />
+<img width="1909" height="891" alt="image" src="https://github.com/user-attachments/assets/fef359ce-1227-40b6-97fb-b0b548b54190" />
+
+[angeljoseramirez_75_gmail_com_20250729_114836.pdf](https://github.com/user-attachments/files/21494782/angeljoseramirez_75_gmail_com_20250729_114836.pdf)
+
+
 ## 🧩 Características
 
 - Interfaz moderna con imagen de fondo.
