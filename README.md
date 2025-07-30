@@ -35,7 +35,7 @@ Confirmacion de la compra y envio de la factura
 
 
 
-<img width="1312" height="821" alt="image" src="https://github.com/user-attachments/assets/398c27a4-5ec5-4606-a701-3a9661563109" />
+<img width="1625" height="929" alt="image" src="https://github.com/user-attachments/assets/36a6aad4-c51f-4029-a720-5307bb59b656" />
 
 
 
