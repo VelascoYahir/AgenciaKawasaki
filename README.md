@@ -24,7 +24,7 @@ Aqui se muestra el CRUD de productos
 
 
 
-
+Aqui se compra una moto
 <img width="1616" height="928" alt="image" src="https://github.com/user-attachments/assets/0f08d0ec-cdab-467f-b927-c335a8161a8c" />
 
 
