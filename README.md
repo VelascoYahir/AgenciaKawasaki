@@ -29,7 +29,7 @@ Aqui se compra una moto
 
 
 
-
+Confirmacion de la compra y envio de la factura
 <img width="1620" height="922" alt="image" src="https://github.com/user-attachments/assets/d89faca2-c2e3-47d9-8b28-ab70619699e3" />
 
 
