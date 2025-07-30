@@ -67,11 +67,17 @@ Librería externa implementada ("Usamos la librería 'correoElectronico' del Equ
 
 Login/
 ├── src/ # Código fuente Java
+
 │ ├── login/ # Lógica de autenticación
+
 │ ├── Agencia/ # Módulos por roles (Agencia4, etc.)
+
 ├── *.jar # Librerías externas necesarias
+
 ├── build.xml # Archivo de construcción (Ant)
+
 ├── correo_generado.html # Plantilla de correo HTML
+
 └── manifest.mf # Configuración del manifiesto
 
 
