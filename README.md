@@ -13,11 +13,13 @@ Librería externa implementada ("Usamos la librería 'correoElectronico' del Equ
 
 ## 🧩 Funcionalidades clave
 
+
+Aqui se muestra el CRUD de usuarios
 <img width="1616" height="924" alt="image" src="https://github.com/user-attachments/assets/94e7b675-6dba-48ae-802e-d8e6d6c17302" />
 
 
 
-
+Aqui se muestra el CRUD de productos
 <img width="1624" height="927" alt="image" src="https://github.com/user-attachments/assets/9d1c5c40-1343-4d52-838b-27d895b7d9df" />
 
 
