@@ -44,7 +44,7 @@ Confirmacion de la compra y envio de la factura
 
 
 
-
+Factura recibida a tu correo
 <img width="1909" height="891" alt="image" src="https://github.com/user-attachments/assets/fef359ce-1227-40b6-97fb-b0b548b54190" />
 
 
