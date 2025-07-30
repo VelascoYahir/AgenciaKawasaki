@@ -45,12 +45,14 @@ Confirmacion de la compra y envio de la factura
 
 
 Factura recibida a tu correo
-<img width="1909" height="891" alt="image" src="https://github.com/user-attachments/assets/fef359ce-1227-40b6-97fb-b0b548b54190" />
+<img width="1793" height="791" alt="image" src="https://github.com/user-attachments/assets/c583dacf-a3de-4ac9-8a70-4fb133362576" />
 
 
 
+[angeljoseramirez_75_gmail_com_20250730_091117.pdf](https://github.com/user-attachments/files/21512639/angeljoseramirez_75_gmail_com_20250730_091117.pdf)
 
-[angeljoseramirez_75_gmail_com_20250729_114836.pdf](https://github.com/user-attachments/files/21494782/angeljoseramirez_75_gmail_com_20250729_114836.pdf)
+
+
 
 
 ## 🧩 Características
